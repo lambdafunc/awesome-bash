@@ -93,14 +93,15 @@ In addition to this list, you should read the list [awesome-shell](https://githu
 
 *Self-hosted, lightweight servers and networking tools written in shell scripts.*
 
-- [balls](https://github.com/jneen/balls) - Bash on Balls.
-- [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash.
-- [sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
-- [httpd.sh](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
 - [Bash-web-server](https://github.com/dzove855/Bash-web-server) - A purely bash web server, no socat, netcat, etc.
-- [bash-stack](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
 - [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox.
+- [balls](https://github.com/jneen/balls) - Bash on Balls.
+- [bashbro](https://github.com/victrixsoft/bashbro/) - A Bash-based web file browser - allowing you to remotely browse, stream, view documents and save files via your web browser.
+- [bash-stack](https://github.com/cgsdev0/bash-stack) - Modern web framework in bash.
+- [bashttpd](https://github.com/avleen/bashttpd) - A web server written in Bash.
+- [httpd.sh](https://github.com/cemeyer/httpd.sh) - A trivial web server in bash, using ctypes.sh.
 - [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat.
+- [sherver](https://github.com/remileduc/sherver) - Pure Bash lightweight web server.
 - [xiringuito](https://github.com/ivanilves/xiringuito) - SSH-based VPN for poors.
 
 ## Applications
